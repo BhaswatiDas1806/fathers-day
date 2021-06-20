@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: linear-gradient(to bottom, #00ccff 0%, #90d6e7 100%);
+    ;
+}
+
+#a {
+    height: 300px;
+    width: 900px;
+}
